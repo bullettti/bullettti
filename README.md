@@ -9,7 +9,7 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://camo.githubusercontent.com/90b8d63cfc0d2660c8f13b6334499a6f2758cf3a9080954872f8fe226c1840f1/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d4d792532305265706f732d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f/a>
 </div> 
  
 ### Main skills:
